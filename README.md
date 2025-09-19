@@ -11,8 +11,8 @@ The **Student Management System (SMS)** is a software project designed to manage
 - **User-Friendly Interface** – Simple and intuitive design for smooth usage.  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** [Your frontend technology here, e.g., HTML/CSS, React, JavaFX]  
-- **Backend:** [Your backend technology here, e.g., Java, Python, C++]  
-- **Database:** [Your database here, e.g., MySQL, SQLite]  
+- **Frontend:** Android studio(xml)  
+- **Backend:** Java  
+- **Database:** Firebase  
 
 ## 📂 Project Structure  
